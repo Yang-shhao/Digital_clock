@@ -1,6 +1,6 @@
 # Digital_clock
 
- **备注：** 
+ **备注：** 与本项目配套的设计说明文档《[基于FPGA的数字时钟的设计与实现](https://www.cnblogs.com/Yang-shihao/p/15654785.html)》，已经更新完成。
 
 ## 介绍设计要求
 
